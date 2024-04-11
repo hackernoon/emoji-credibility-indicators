@@ -6,7 +6,7 @@ At [HackerNoon](https://hackernoon.com), we believe transparency with the reader
 
 This could be something as simple as telling the reader if the story is a news piece or an opinion piece. On the other hand, there are more complicated things we might want to communicate to the reader, such as whether or not the writer has a vested interest in the companies they’re writing about, or if they used AI to write the piece.
 
-To accomplish these goals, we’ve launched [Emoji Credibility Indicators](https://hackernoon.com/tagged/emoji-credibility-indicators)! We've open sourced them here and [on Figma as Emoji Credibility Indicators | Pixelated Emoji Pack by HackerNoon](https://www.figma.com/file/yn676Lekkq6pcYWbY0zXOr/Emoji-Credibility-Indicators-%7C-Pixelated-Emoji-Pack-by-HackerNoon?type=design&node-id=1-3&mode=design&t=nET4QVk72cxpnLpL-0)
+To accomplish these goals, we’ve launched [Emoji Credibility Indicators](https://hackernoon.com/tagged/emoji-credibility-indicators)! We've open sourced them here and [on Figma as Emoji Credibility Indicators | Pixelated Emoji Pack by HackerNoon](https://www.figma.com/community/file/1360294413073459375/pixelated-emoji-pack-emoji-credibility-indicators-by-hackernoon)
 
 ## What are Emoji Credibility Indicators on HackerNoon Stories?
 Emoji Credibility Indicators provide essential context to the content within every HackerNoon story. Below the author’s profile on the story page, the “Credibility” section appears with a corresponding custom emoji and tooltip to indicate relevant information about the story to the reader.
@@ -25,6 +25,6 @@ When lost in a good read, it may feel like there are only words, but the reality
 
 [HackerNoon Post: Every Emoji Credibility Indicator on HackerNoon Explained](https://hackernoon.com/every-emoji-credibility-indicator-on-hackernoon-explained)
 
-[Figma Pixelated Emoji Pack of Emoji Credibility Indicators](https://www.figma.com/file/yn676Lekkq6pcYWbY0zXOr/Emoji-Credibility-Indicators-%7C-Pixelated-Emoji-Pack-by-HackerNoon?type=design&node-id=1-3&mode=design&t=nET4QVk72cxpnLpL-0)
+[Figma Pixelated Emoji Pack of Emoji Credibility Indicators](https://www.figma.com/community/file/1360294413073459375/pixelated-emoji-pack-emoji-credibility-indicators-by-hackernoon)
 
 [Help Section](https://help.hackernoon.com/emoji-credibility-indicators)  I  [Live Story Video](https://www.youtube.com/watch?v=dZdXRnmdQtQ)       

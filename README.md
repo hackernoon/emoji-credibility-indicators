@@ -21,7 +21,7 @@ When lost in a good read, it may feel like there are only words, but the reality
 
 ## More on Emoji Credability Indicators
 
-[HackerNoon Post: How Emoji Credibility Indicators Add Context to Stories](https://hackernoon.com/how-emoji-credibility-indicators-add-context-to-stories)
+[HackerNoon Post: How Emoji Credibility Indicators Add Context to Stories](https://hackernoon.com/how-emoji-credibility-indicators-add-context-to-hackernoon-stories)
 
 [HackerNoon Post: Every Emoji Credibility Indicator on HackerNoon Explained](https://hackernoon.com/every-emoji-credibility-indicator-on-hackernoon-explained)
 

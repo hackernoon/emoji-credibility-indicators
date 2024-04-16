@@ -14,7 +14,9 @@ Emoji Credibility Indicators provide essential context to the content within eve
 ## Types of Emoji Credibility Indicators
 Below, you can read about all our emoji credibility indicators, what they mean, and how to use them. So if you have a technological project, and want amazing pixelated emojis to represent/communicate credibility, this repo is for you!
 
-![Card](https://github.com/hackernoon/emoji-credibility-indicators/assets/53912722/3e77751f-ab5d-4481-8c0c-2593d911f4d7)
+
+![Card](https://github.com/hackernoon/emoji-credibility-indicators/assets/53912722/aff01649-214d-4c61-b2db-b445114f1590)
+
 
 
 ## Why Adding Context to Content Matters to the Future of Digital Text
